@@ -1,0 +1,5 @@
+language: java
+java:
+   - 1.7.0_80
+jdk:
+  - oraclejdk7
